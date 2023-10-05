@@ -1,4 +1,4 @@
-**[Coca Cola Sales Dashboard in Power BI]{.underline}**
+**Coca Cola Sales Dashboard in Power BI**
 
 Hi, in this activity, I have tried to create a sales dashboard displaying the sales details of Coca Cola company sales data.\
 I made this dashbaord with help of the Youtube video from **"Kenji Explains"**.
